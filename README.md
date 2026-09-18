@@ -1,4 +1,4 @@
-# Folio— Freelance Portfolio Template (HTML · Tailwind · Alpine.js)
+s# Folio— Freelance Portfolio Template (HTML · Tailwind · Alpine.js)
 #### Preview
 
  - [Demo](https://themewagon.github.io/folio-html/)
